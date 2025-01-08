@@ -1,5 +1,5 @@
 data segment
-x db 9,9,9,9,9
+x db 10h, 20h, 30h, 40h, 50h
 y db 5 dup (?)
 ends
 
